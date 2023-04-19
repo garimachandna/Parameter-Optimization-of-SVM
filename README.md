@@ -29,9 +29,16 @@ health: recommended, priority, not_recom<br>
 
 ## Results
 
+The best parameters of SVC for the given dataset are:
+- Kernel : rbf
+- C : 6.393915  
+- Gamma : 0.117114    
+
+The above parameter gave a maximum accuracy of 0.9915.
 
 ### Convergence graph  : 
 
+![image](https://user-images.githubusercontent.com/72309401/233136025-ea315ba2-4531-4984-b527-63d9ec7e844d.png)
 
 
 
